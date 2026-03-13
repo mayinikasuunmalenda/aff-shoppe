@@ -48,7 +48,7 @@ export const getServerSideProps: GetServerSideProps = async (ctx) => {
 		}
 	`;
 
-	const data = await graphQLClient.request(query);
+	const data = await graphQLClient.request<any>(query);
 	if (!data.post) {
 		return {
 			notFound: true,
