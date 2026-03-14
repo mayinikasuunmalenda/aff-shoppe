@@ -19,7 +19,7 @@ export const posts: Post[] = [
     imageAlt: 'Fajar Sadboy - Dari Viral ke Bintang Film',
     dateGmt: '2026-03-13T00:00:00',
     modifiedGmt: '2026-03-13T00:00:00',
-    redirectUrl: 'https://s.shopee.co.id/6Kzh9nuMse',
+    redirectUrl: 'https://s.shopee.co.id/3B2fk8LhkK?share_channel_code=4&fb_content_id=Q9-wBQHN2intPmX5-AAjzAjAGKAnLKrTghpco3mm7CFg6uNRSsnVvMU1C3cFKhtxw20&encrypted_payload=AvcbSfUGs0RLP5m-tRzmolh4bysb54UgM24Q7jPOGbTAvaKfY3AYezconto-VIN8vXEUD2B_CW2mbmpEOhl6XlrXIaXxfo8eOUVGNjY7_btIszEx_n0DBcB2HVu5stcy4ZEGwVnfFdJKHQQ9yDTtmLrDMKpQUxUNAYEsjdn3JaSpxAEIPXFrB-DJHvAHgVBGCIuH-uoeLDlIzuIz8XUK&channel_type=fb',
     content: `
       <p>Fajar Sadboy (Fajar Labatjo) sukses bertransformasi dari remaja Gorontalo yang viral karena tangisan patah hati menjadi selebritas internet, penyanyi, dan aktor yang sukses di Jakarta. Dikenal karena kesedihannya, Fajar kini membintangi film Galaksi dan berfokus membahagiakan orang tua serta membangun rumah.</p>
 
@@ -46,7 +46,7 @@ export const posts: Post[] = [
     imageAlt: 'Fajar Sadboy dibuatkan menangis oleh mantan pacar',
     dateGmt: '2026-03-14T00:00:00',
     modifiedGmt: '2026-03-14T00:00:00',
-    redirectUrl: 'https://s.shopee.co.id/6Kzh9nuMse',
+    redirectUrl: 'https://s.shopee.co.id/3B2fk8LhkK?share_channel_code=4&fb_content_id=Q9-wBQHN2intPmX5-AAjzAjAGKAnLKrTghpco3mm7CFg6uNRSsnVvMU1C3cFKhtxw20&encrypted_payload=AvcbSfUGs0RLP5m-tRzmolh4bysb54UgM24Q7jPOGbTAvaKfY3AYezconto-VIN8vXEUD2B_CW2mbmpEOhl6XlrXIaXxfo8eOUVGNjY7_btIszEx_n0DBcB2HVu5stcy4ZEGwVnfFdJKHQQ9yDTtmLrDMKpQUxUNAYEsjdn3JaSpxAEIPXFrB-DJHvAHgVBGCIuH-uoeLDlIzuIz8XUK&channel_type=fb',
     content: `
       <p>Nama Fajar Sadboy meledak di media sosial bukan karena prestasi akademik atau bakat seni, melainkan karena sebuah video tangisan yang begitu tulus dan mengharukan. Di balik air mata itu, tersimpan kisah pahit dari seorang remaja yang dikhianati orang yang paling ia percaya: mantan pacarnya sendiri.</p>
 
@@ -77,7 +77,7 @@ export const posts: Post[] = [
     imageAlt: 'Fajar Sadboy dan Livy Renata',
     dateGmt: '2026-03-14T00:00:00',
     modifiedGmt: '2026-03-14T00:00:00',
-    redirectUrl: 'https://s.shopee.co.id/6Kzh9nuMse',
+    redirectUrl: 'https://s.shopee.co.id/3B2fk8LhkK?share_channel_code=4&fb_content_id=Q9-wBQHN2intPmX5-AAjzAjAGKAnLKrTghpco3mm7CFg6uNRSsnVvMU1C3cFKhtxw20&encrypted_payload=AvcbSfUGs0RLP5m-tRzmolh4bysb54UgM24Q7jPOGbTAvaKfY3AYezconto-VIN8vXEUD2B_CW2mbmpEOhl6XlrXIaXxfo8eOUVGNjY7_btIszEx_n0DBcB2HVu5stcy4ZEGwVnfFdJKHQQ9yDTtmLrDMKpQUxUNAYEsjdn3JaSpxAEIPXFrB-DJHvAHgVBGCIuH-uoeLDlIzuIz8XUK&channel_type=fb',
     content: `
       <p>Momen pertemuan Fajar Sadboy dengan Livy Renata sempat menjadi perbincangan hangat di media sosial. Netizen langsung berspekulasi soal kemungkinan hubungan keduanya. Namun kenyataannya tidak semulus yang dibayangkan para penggemar.</p>
 
@@ -108,7 +108,7 @@ export const posts: Post[] = [
     imageAlt: 'Fajar Sadboy naksir Amanda Manopo tapi ditolak',
     dateGmt: '2026-03-14T00:00:00',
     modifiedGmt: '2026-03-14T00:00:00',
-    redirectUrl: 'https://s.shopee.co.id/6Kzh9nuMse',
+    redirectUrl: 'https://s.shopee.co.id/3B2fk8LhkK?share_channel_code=4&fb_content_id=Q9-wBQHN2intPmX5-AAjzAjAGKAnLKrTghpco3mm7CFg6uNRSsnVvMU1C3cFKhtxw20&encrypted_payload=AvcbSfUGs0RLP5m-tRzmolh4bysb54UgM24Q7jPOGbTAvaKfY3AYezconto-VIN8vXEUD2B_CW2mbmpEOhl6XlrXIaXxfo8eOUVGNjY7_btIszEx_n0DBcB2HVu5stcy4ZEGwVnfFdJKHQQ9yDTtmLrDMKpQUxUNAYEsjdn3JaSpxAEIPXFrB-DJHvAHgVBGCIuH-uoeLDlIzuIz8XUK&channel_type=fb',
     content: `
       <p>Fajar Sadboy kembali membuat publik gemas. Setelah sebelumnya diketahui mengagumi beberapa artis, kini giliran Amanda Manopo yang menjadi sasaran perasaan Fajar. Remaja asal Gorontalo ini terang-terangan menyatakan rasa kagumnya pada bintang sinetron Ikatan Cinta tersebut.</p>
 
@@ -139,7 +139,7 @@ export const posts: Post[] = [
     imageAlt: 'Pacar Fajar Sadboy sekarang yang cantik banget',
     dateGmt: '2026-03-14T00:00:00',
     modifiedGmt: '2026-03-14T00:00:00',
-    redirectUrl: 'https://s.shopee.co.id/6Kzh9nuMse',
+    redirectUrl: 'https://s.shopee.co.id/3B2fk8LhkK?share_channel_code=4&fb_content_id=Q9-wBQHN2intPmX5-AAjzAjAGKAnLKrTghpco3mm7CFg6uNRSsnVvMU1C3cFKhtxw20&encrypted_payload=AvcbSfUGs0RLP5m-tRzmolh4bysb54UgM24Q7jPOGbTAvaKfY3AYezconto-VIN8vXEUD2B_CW2mbmpEOhl6XlrXIaXxfo8eOUVGNjY7_btIszEx_n0DBcB2HVu5stcy4ZEGwVnfFdJKHQQ9yDTtmLrDMKpQUxUNAYEsjdn3JaSpxAEIPXFrB-DJHvAHgVBGCIuH-uoeLDlIzuIz8XUK&channel_type=fb',
     content: `
       <p>Setelah sekian lama dikenal sebagai "korban cinta" yang kisah asmaranya selalu berakhir mengecewakan, Fajar Sadboy akhirnya memberikan kabar menggembirakan. Ia kini sudah punya pacar — dan netizen langsung heboh begitu melihat foto sang kekasih yang disebut-sebut cantik banget!</p>
 
